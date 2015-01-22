@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"builders":{"default":"maven"},"runners":{"configs":{"system:/java/web/tomcat7":{"variables":{},"ram":0,"options":{}}},"default":"system:/java/web/tomcat7"},"type":"maven","attributes":{}}
+=======
+{"runners":{"configs":{"system:/php/web/php56_apache2":{"variables":{},"ram":0,"options":{}}},"default":"system:/php/web/php56_apache2"},"type":"php","attributes":{}}
+>>>>>>> 9f914eb04c3289b2bbab5cdc941d504f8d1b5ad8
