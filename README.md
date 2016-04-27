@@ -19,7 +19,8 @@ FROM [codenvy/ubuntu_android](https://hub.docker.com/r/codenvy/ubuntu_android/)
 3. Find your application in the Emulator's Menu.
 ![Alt text](https://raw.githubusercontent.com/ddementieva/android/master/images/codenvy-example.png "Codenvy Example")
 4. Go back to the IDE. Change your application, build it with `build-n-run` command, go to the previously opened VNC window and run `adb install -r /projects/mobile-android-simple/target/maven-android-0.1.0.apk` command to see the changes.
- ![Alt text](https://raw.githubusercontent.com/ddementieva/android/master/images/update.png "Update")
+
+![Alt text](https://raw.githubusercontent.com/ddementieva/android/master/images/update.png "Update")
 
 | #       | Description           | Command  |
 | :------------- |:-------------| :-----|
